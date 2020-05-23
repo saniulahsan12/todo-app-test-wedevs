@@ -3,8 +3,8 @@
 repo contains two seperate folders. one is backend for php. and one is front end made up with reactjs.
 
 ## Run the Backend
-to run backend app there is a sample db, import it and app/config/config.js change the db and other configs. go to root
-and ty to command composer-dumpautoload. run on the browser or run on a php server.
+to run backend app there is a sample db provided for mySQL database, import it through phpmyadmin or as you prefer and app/config/config.js change the db and other configs. go to root
+and try to command composer-dumpautoload. run on the browser or run on a php server.
 
 http://localhost/todo-backend/
 or
