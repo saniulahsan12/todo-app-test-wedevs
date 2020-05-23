@@ -22,5 +22,6 @@ npm run
 http://localhost:3000
 
 and you are ready to go. Thanks.
+There is a sample postman dump added to help out with the API response.
 
 N:B: In any cases or if there is any problem to run the app, Please contact, saniul.ahsan.12@gmail.com
